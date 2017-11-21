@@ -1,0 +1,2 @@
+bucket  = "my-fake-bucket"
+key     = "demo/terraform.tfstate"
